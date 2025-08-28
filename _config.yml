@@ -7,29 +7,29 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "it-IT"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Gabriel Jones"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Gabriel Jones"
+description              : &description "Sono Gabriel, un giovane developer, bibliotecario, studente, content creator e web developer."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gabrielmatteojones/profile/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "https://2.gravatar.com/avatar/53241b11fb23d653d6c97ab192be4c459ef4201d71bffe0b87f8c09c061c577b?size=256&d=initials"
+  name             : "Gabriel Jones"
+  pronouns         : Her / He # example: "she/her"  
+  bio              : "Sono Gabriel, un piccolo infinito"
+  location         : "Casa Mia"
+  employer         : "Biblioteca Comunale di Fontanafredda"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gjones@agfo.fvg.it" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : gabrielmatteojones_official # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
