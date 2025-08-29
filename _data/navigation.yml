@@ -14,7 +14,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
@@ -26,5 +26,8 @@ main:
   - title: "Org"
     url: /orgs/
 
-  - title: "Dipartimenti"
-    url: /orgs/
+  - title: "EDUKA"
+    url: /eduka/
+
+  - title: "FOIA"
+    url: /FOIA/
