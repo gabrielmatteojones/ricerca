@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Ciao, sono Gabriel (Matteo) Jones
-
 Sono un **Web Developer**, **bibliotecario** e **studente di Grafica e Comunicazione** con una forte passione per il **design, il digitale e la cultura**.  
 Creo siti con **WordPress** e **Jekyll**, e mi piace sperimentare con **Firebase**, **Netlify** e altre tecnologie web.  
 Parallelamente, lavoro come **Content Creator** e mi occupo di progetti culturali e comunicativi che uniscono giovani e comunità.  
