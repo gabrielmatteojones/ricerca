@@ -1,0 +1,71 @@
+backend:
+  name: git-gateway
+  branch: master   # o "master" se usi quella branch
+
+media_folder: "assets/uploads"   # dove Netlify CMS salva i file
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "date", label: "Date", widget: "datetime" }
+      - { name: "author", label: "Author", widget: "string", default: "gabjd4" }
+      - { name: "body", label: "Body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    folder: "_pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "body", label: "Body", widget: "markdown" }
+
+  - name: "portfolio"
+    label: "Portfolio"
+    folder: "_portfolio"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "body", label: "Body", widget: "markdown" }
+
+  - name: "project"
+    label: "Projects"
+    folder: "_project"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Project Title", widget: "string" }
+      - { name: "date", label: "Date", widget: "datetime" }
+      - { name: "description", label: "Description", widget: "text" }
+      - { name: "body", label: "Body", widget: "markdown" }
+
+  - name: "organizations"
+    label: "Organizations"
+    folder: "_organizations"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "name", label: "Organization Name", widget: "string" }
+      - { name: "role", label: "Role", widget: "string" }
+      - { name: "start_date", label: "Start Date", widget: "datetime" }
+      - { name: "end_date", label: "End Date", widget: "datetime", required: false }
+      - { name: "body", label: "Body", widget: "markdown" }
+
+  - name: "publications"
+    label: "Publications"
+    folder: "_publications"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "authors", label: "Authors", widget: "list" }
+      - { name: "date", label: "Date", widget: "datetime" }
+      - { name: "journal", label: "Journal/Conference", widget: "string", required: false }
+      - { name: "body", label: "Body", widget: "markdown" }
