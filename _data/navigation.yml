@@ -19,3 +19,12 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Grafica"
+    url: /grafica/
+
+  - title: "Org"
+    url: /orgs/
+
+  - title: "Dipartimenti"
+    url: /orgs/
