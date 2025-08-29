@@ -10,12 +10,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Project"
-    url: /project/    
-
-  - title: "Organizzazioni"
-    url: /organizations/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -25,6 +19,3 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
