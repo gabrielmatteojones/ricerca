@@ -3,7 +3,6 @@ permalink: /foia/
 title: "FOIA"
 author_profile: true
 redirect_from: 
-  - /foia/
   - /FOIA/
   - /trasparenza/
   - /foia.html
