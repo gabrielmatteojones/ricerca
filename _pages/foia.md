@@ -1,10 +1,14 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /foia/
+title: "FOIA"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /foia/
+  - /FOIA/
+  - /trasparenza/
+  - /foia.html
+  - /FOIA.html
+  - /trasparenza.html
 ---
 
 ## Locations of key files/directories
