@@ -18,3 +18,10 @@ In particolare, l’**Articolo 6 del regolamento GJWS** stabilisce l’obbligo, 
 **AGFO**, in qualità di ente responsabile dell’amministrazione e della supervisione dei contenuti, si impegna a garantire che la sezione FOIA sia non solo uno strumento di adempimento normativo, ma anche un presidio di trasparenza reale, volto a promuovere la responsabilità, l’integrità e l’accessibilità delle attività svolte.
 
 Questa sezione diventa quindi un punto di riferimento per chi desidera esercitare i propri diritti di informazione e controllo, assicurando un dialogo costante e aperto tra istituzioni e cittadini.
+
+
+| Documenti                     | Tipologia | Link Documento                                               |
+| ------------------------------| --------- | ------------------------------------------------------------ |
+| Dichiarazione Accessibilità   | 2022      | gabrieljones.it/media/dichiarazione-accessibilita.pdf        |
+| Dichiarazione Trasparenza     | 2022      | gabrieljones.it/media/dichiarazione-trasparenza.pdf          |
+| Dichiarazione Bilancio        | 2025      | gabrieljones.it/media/bilancio25.pdf                         |
