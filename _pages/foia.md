@@ -24,4 +24,4 @@ Questa sezione diventa quindi un punto di riferimento per chi desidera esercitar
 | ------------------------------| --------- | ------------------------------------------------------------ |
 | Dichiarazione Accessibilità   | 2022      | gabrieljones.it/media/dichiarazione-accessibilita.pdf        |
 | Dichiarazione Trasparenza     | 2022      | gabrieljones.it/media/dichiarazione-trasparenza.pdf          |
-| Dichiarazione Bilancio        | 2025      | gabrieljones.it/media/bilancio25.pdf                         |
+| Dichiarazione Bilancio        | 2025      | gabrieljones.it/media/bilancio25.pdf gabrieljones.it/media/bilancio24.pdf gabrieljones.it/media/bilancio23.pdf gabrieljones.it/media/bilancio22.pdf gabrieljones.it/media/bilancio21.pdf gabrieljones.it/media/bilancio20.pdf                         |
