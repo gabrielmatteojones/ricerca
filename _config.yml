@@ -13,9 +13,9 @@ title                    : "Gabriel Jones"
 title_separator          : "-"
 name                     : &name "Gabriel Jones"
 description              : &description "Sono Gabriel, un giovane developer, bibliotecario, studente, content creator e web developer."
-url                      : "https://gabrieljones.it" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/ricerca/" # the subpath of your site, e.g. "/blog"
-repository               : "gabrielmatteojones/profile"
+url                      : "https://jonez.it" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+repository               : "gabrielmatteojones/ricerca"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,11 +25,11 @@ author:
   avatar           : "https://2.gravatar.com/avatar/53241b11fb23d653d6c97ab192be4c459ef4201d71bffe0b87f8c09c061c577b?size=256&d=initials"
   name             : "Gabriel Jones"
   pronouns         : "he / him" # example: "she/her"  
-  bio              : "Sono Gabriel, un piccolo infinito"
+  bio              : "Sono Gabriel, sto leggendo, non disturbarmi"
   location         : "Fontanafredda (PN)"
   employer         : "Biblioteca Comunale di Fontanafredda"
   uri              : "https://fontanafredda.infoteca.it"# URL
-  email            : "gjones@agfo.fvg.it" 
+  email            : "gjones@etra.pn.it" 
 
   # Academic websites
   academia         : "/biblioteconomia/" # URL
@@ -106,7 +106,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -144,9 +144,9 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : person # Person or Organization (defaults to Person)
-  name                   : Gabriel Matteo Jones # If the user or organization name differs from the site's name
-  links                  : https://nonez.jonez.it/gabriel-jones/ # An array of links to social media profiles
+  type                   : "person" # Person or Organization (defaults to Person)
+  name                   : "Gabriel Matteo Jones" # If the user or organization name differs from the site's name
+  links                  : "https://jonez.it/gabriel-jones/" # An array of links to social media profiles
 
 
 # Analytics
